@@ -1,7 +1,7 @@
-# Nama Aplikasi
+# Tukang Lokal
 
 <h2>Nama Tim</h2>
-<p>Nama Peserta 1 - NIM</p>
-<p>Nama Peserta 2 - NIM</p>
+<p>Safa Fadila - 23030230044</p>
+<p>Cahya Ikhsani - NIM 23090250002</p>
 
 penjelasan aplikasi dan fitur aplikasinya or ui uxnya
