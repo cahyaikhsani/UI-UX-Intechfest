@@ -3,14 +3,13 @@
 <h2>Safa Nur Fadila - NIM 23030230044</h2>
 <h2>Cahya Ikhsani - NIM 23090250002</h2>
 
-TukangLokal
 Judul & Nama Produk: TukangLokal
 
 TukangLokal dengan tagline “Servis Transparan, Usaha Lokal Makin Andal.” Nama ini kami ambil dari dua hal: “tukang”, yang mewakili bengkel servis rumahan, dan “lokal”, yang menunjukkan bahwa aplikasi ini dibuat untuk mendukung usaha-usaha di sekitar kita. Logonya pakai ikon kunci pas dan obeng supaya langsung kebaca kalau ini aplikasi untuk layanan servis.
 
 A. Deskripsi Singkat
 
-TukangLokal adalah aplikasi berbasis web yang ramah dibuka lewat HP. Fungsinya membantu bengkel servis skala kecil mengelola barang servis yang masuk sekaligus menjaga komunikasi dengan pelanggan secara transparan. UMKM yang kami angkat adalah Tukang servis elektronik/HP mikro, penjahit rumahan, cuci/reparasi sepatu & tas, dan tambal ban/bengkel panggilan.DEngan target konsumen Warga lokal, anak kos, atau mahasiswa yang membutuhkan jasa perbaikan cepat dengan harga transparan tanpa harus antre lama di lokasi. Dengan contoh Bengkel Berkah milik Pak Joko di Jl. Sudirman No. 12, Salatiga. Bengkel ini menerima berbagai servis seperti kipas angin, HP Samsung, dan mesin cuci. Aplikasinya punya dua sisi. Sisi toko berisi dashboard kapasitas, daftar barang masuk, dan form terima servis baru. Sisi pelanggan berupa halaman pelacakan status yang bisa dibuka lewat tautan WhatsApp, jadi pelanggan tidak perlu instal aplikasi apa pun.
+TukangLokal adalah aplikasi berbasis web yang ramah dibuka lewat HP. Fungsinya membantu bengkel servis skala kecil mengelola barang servis yang masuk sekaligus menjaga komunikasi dengan pelanggan secara transparan. UMKM yang kami angkat adalah Tukang servis elektronik/HP mikro, penjahit rumahan, cuci/reparasi sepatu & tas, dan tambal ban/bengkel panggilan. Dengan target konsumen Warga lokal, anak kos, atau mahasiswa yang membutuhkan jasa perbaikan cepat dengan harga transparan tanpa harus antre lama di lokasi. Dengan contoh Bengkel Berkah milik Pak Joko di Jl. Sudirman No. 12, Salatiga. Bengkel ini menerima berbagai servis seperti kipas angin, HP Samsung, dan mesin cuci. Aplikasinya punya dua sisi. Sisi toko berisi dashboard kapasitas, daftar barang masuk, dan form terima servis baru. Sisi pelanggan berupa halaman pelacakan status yang bisa dibuka lewat tautan WhatsApp, jadi pelanggan tidak perlu instal aplikasi apa pun.
 
 B. Rumusan Masalah
 
