@@ -5,7 +5,7 @@
 
 Judul & Nama Produk: TukangLokal
 
-TukangLokal dengan tagline “Servis Transparan, Usaha Lokal Makin Andal.” Nama ini kami ambil dari dua hal: “tukang”, yang mewakili bengkel servis rumahan, dan “lokal”, yang menunjukkan bahwa aplikasi ini dibuat untuk mendukung usaha-usaha di sekitar kita. Logonya pakai ikon kunci pas dan obeng supaya langsung kebaca kalau ini aplikasi untuk layanan servis.
+TukangLokal dengan tagline “Servis Transparan, Usaha Lokal Makin Andal.” Nama ini kami ambil dari dua hal “tukang”, yang mewakili bengkel servis rumahan, dan “lokal”, yang menunjukkan bahwa aplikasi ini dibuat untuk mendukung usaha-usaha di sekitar kita. Logonya pakai ikon kunci pas dan obeng supaya langsung kebaca kalau ini aplikasi untuk layanan servis.
 
 A. Deskripsi Singkat
 
